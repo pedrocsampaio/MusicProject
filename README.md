@@ -1,4 +1,4 @@
-<h1>Ideia</h1>
+<h1>About</h1>
 
 The course was focusing on the development of this project with a focus on grid and flex-box, I made some changes to leave the project with another idea.
 
